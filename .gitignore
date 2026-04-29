@@ -1,0 +1,14 @@
+# PII / 운영 데이터 절대 push 금지
+지원자데이터/
+output/
+*.pkl
+*.png
+*.xlsx
+역량분석결과*
+
+# 캐시 / 환경
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
